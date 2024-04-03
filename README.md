@@ -11,4 +11,4 @@ Select a favorable option from the unordered lists and get a result.
 
 <h2>Author:</h2>
 
-Kevin Kavete | <a href="mailto:kavetech@gmail.com">Kavetech@gmail.com</a> | <a href="https://github.com/kavetech2023">Github</a>
+Kevin Kavete | Email: <a href="mailto:kavetech@gmail.com">Kavetech@gmail.com</a> | Github: <a href="https://github.com/kavetech2023">Github</a>
