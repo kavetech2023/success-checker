@@ -1,6 +1,6 @@
 <h1>success-checker</h1>
 
-<p>This is a fun personal project i created using react. It is a checker that tests the level-of-grit required to succeed in the coding world.</p>
+<p>This is a fun personal project i created using react. It is a checker that tests the level-of-grit required to succeed in the coding world. It checks on whether you are smarter than Elon Musk</p>
 
 <h2>Technology used:</h2>
 React and vite
